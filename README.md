@@ -18,6 +18,14 @@ Download game directly from GitHub.
 
 <br>
 
+## 📋Project Info
+|  | |
+| ------------------- | ------------------------------------------------------------ |
+| Unity Version | Unity (2022.3.46f1) |
+| Development Time | 3 days |
+
+<br>
+
 ## 📂Files description
 
 ```
@@ -57,8 +65,3 @@ The following controls are bound in-game, for gameplay and testing.
 | `PlayerMovement.cs`  | Handles basic player movement |
 | `Target.cs`  | Handles target raycast detection when object is shot |
 
-
-<br>
-
-## 🔥Unity Version
-This game was developed using **Unity (2022.3.46f1)**.
