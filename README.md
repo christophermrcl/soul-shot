@@ -21,7 +21,7 @@ Download game directly from GitHub.
 ## 📋Project Info
 |  | |
 | ------------------- | ------------------------------------------------------------ |
-| Unity Version | Unity (2022.3.46f1) |
+| Unity Version | Unity 2022.3.46f1 |
 | Development Time | 3 days |
 
 <br>
